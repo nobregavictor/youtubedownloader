@@ -9,18 +9,18 @@ Você pode rodá-lo através do terminal ou utilizá-lo de maneira interativa, i
 
 How to Run the Project / Como rodar o projeto <br>
 🇺🇸 [EN]: <br>
-Clone or download this repository to your local machine. <br>
-Install the required dependencies by running the following command: <br>
-pip install pytubefix <br>
-Run the Python file: youtube-downloader.py <br>
-Paste the YouTube Video URL in the window that pops up. <br>
-Press the DOWNLOAD button to save the video. <br>
+Clone or download this repository to your local machine. <br><br>
+Install the required dependencies by running the following command: <br><br>
+pip install pytubefix <br><br>
+Run the Python file: youtube-downloader.py <br><br>
+Paste the YouTube Video URL in the window that pops up. <br><br>
+Press the DOWNLOAD button to save the video. <br><br>
 
 
 🇧🇷 [PT-BR]: <br>
-Clone ou baixe este repositório para sua máquina local. <br>
-Instale as dependências necessárias rodando o seguinte comando: <br>
-pip install pytubefix <br>
-Execute o arquivo Python: youtube-downloader.py <br>
-Cole o URL do vídeo na janela que aparecerá. <br>
-Aperte o botão DOWNLOAD para salvar o vídeo. <br>
+Clone ou baixe este repositório para sua máquina local. <br><br>
+Instale as dependências necessárias rodando o seguinte comando: <br><br>
+pip install pytubefix <br><br>
+Execute o arquivo Python: youtube-downloader.py <br><br>
+Cole o URL do vídeo na janela que aparecerá. <br><br>
+Aperte o botão DOWNLOAD para salvar o vídeo. <br><br>
