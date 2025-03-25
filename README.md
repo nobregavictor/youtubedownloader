@@ -10,6 +10,7 @@ Você pode rodá-lo através do terminal ou utilizá-lo de maneira interativa, i
 How to Run the Project / Como rodar o projeto <br>
 🇺🇸 [EN]: <br><br>
 Clone or download this repository to your local machine. <br><br>
+Install Python in the following Link: https://www.python.org/downloads/ <br><br>
 Install the required dependencies by running the following command: <br><br>
 pip install pytubefix <br><br>
 Run the Python file: youtube-downloader.py <br><br>
@@ -19,6 +20,7 @@ Press the DOWNLOAD button to save the video. <br><br>
 
 🇧🇷 [PT-BR]: <br><br>
 Clone ou baixe este repositório para sua máquina local. <br><br>
+Instale Python no link a seguir: https://www.python.org/downloads/ <br><br>
 Instale as dependências necessárias rodando o seguinte comando: <br><br>
 pip install pytubefix <br><br>
 Execute o arquivo Python: youtube-downloader.py <br><br>
