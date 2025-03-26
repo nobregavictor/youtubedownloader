@@ -1,4 +1,7 @@
 # YouTube Video Downloader
+
+![image](https://github.com/user-attachments/assets/e83d10b2-d0c5-4496-b108-70932b1e303f)
+
 🇺🇸 [EN]: <br>
 This Python script allows you to download YouTube videos by simply providing the URL. <br> It uses the pytubefix library to fetch the highest resolution video and save it to your computer.
 You can run it through the terminal or use it interactively with manual URL input.
